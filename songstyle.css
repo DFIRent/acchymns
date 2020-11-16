@@ -1,0 +1,15 @@
+* {
+  text-align: center;
+  font-family: 'Piazzolla', serif;
+  background-color: BLACK
+}
+
+.color {
+  color: white;
+
+}
+
+
+a:link, a:visited {
+  color: white;
+}
