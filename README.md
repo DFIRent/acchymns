@@ -14,6 +14,12 @@ acchymns.com is a website that will have all the song books in multiple languges
 - Junior Hymnal
 - Zbirka Slavopoja Gospodu Bogu
 
+[Dark Mode Supported Books]
+- Zion's Harp
+- Gospel Hymns
+- Hymns of Zion
+- Junior Hymnal
+- Zbirka Slavopoja Gospodu Bogu
 
 At the date of writing this, 11/15/2020, I have just started the testing phase of the site. I plan to get every song book that anyone has in any language on the site. At the moment, I am focussing on just getting the books on the site, and having the Dark Mode for the songs come once it is done.
 
