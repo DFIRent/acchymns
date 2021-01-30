@@ -1,11 +1,11 @@
 * {
   text-align: center;
   font-family: 'Lora';
-  background-color: white
+  background-color: #0A0A0A
 }
 
 .color {
-  color: black;
+  color: white;
   text-align: center;
 
 
@@ -13,7 +13,7 @@
 
 
 a:link, a:visited {
-  color: black;
+  color: white;
 }
 
 .center {
