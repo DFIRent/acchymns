@@ -1,8 +1,9 @@
 
 
 .main {
-  background-color: #0A0A0A
-
+  background-color: #0A0A0A;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .toptext {
@@ -15,7 +16,7 @@
   text-align: center;
   color: #FFFFFF;
   display: block;
-  background-color: #0A0A0A
+  background-color: #white
 
 }
 
@@ -32,7 +33,7 @@
   position: absolute;
   top:15px;
   right:30px;
-  color: yellow;
+  color: orange;
   text-decoration: none;
 }
 
@@ -52,15 +53,16 @@ text-align: center;
 }
 
 .btn-group button {
-  background-color: white; /* Green background */
-  color: black; /* White text */
-  padding: 14px 25px; /* Some padding */
+  background-color: #white;
+  color: #black;
+  padding: 14px 25px;
   border-radius: 100px;
   outline: none;
   text-align: center;
   height: 55px;
   width: 175px;
   font-family: 'Lora', serif;
+
 
 }
 
