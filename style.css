@@ -2,7 +2,8 @@
 
 .main {
   background-color: #white
-
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .toptext {
@@ -52,9 +53,9 @@ text-align: center;
 }
 
 .btn-group button {
-  background-color: #0A0A0A; /* Green background */
-  color: white; /* White text */
-  padding: 14px 25px; /* Some padding */
+  background-color: #0A0A0A;
+  color: white;
+  padding: 14px 25px;
   border-radius: 100px;
   outline: none;
   text-align: center;
