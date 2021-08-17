@@ -43,3 +43,5 @@ A: In the future, yes. I plan on having apps for both OS's once the website is a
 
 
 Feel free to leave any other questions on any of my pages.
+
+This is also my first HTML/CSS project ever. So keep that in mind.
