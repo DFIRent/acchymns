@@ -6,6 +6,8 @@ Made a repository so sourcecode can be easily accessable and update information 
 
 [8/16/2021 UPDATE] This project is NOT abandoned. However, there will no longer be any updates to this repository. As of writing this message, the current website is using this infrastructure. This will (hopefully) not be the case in the upcoming months. I have many plans for the project, and it will reach the point that I have been waiting for since the beginning. This includes a completely re-designed website, that will of course have the books on there. Though the more important part of this update is the confirmation that there will be an iOS & Andriod Mobile app free for all. Currently pre-occupied with other projects that need my attention first, but know that this is not forgotten.
 
+[12/14/2021 UPDATE] Change is inevitable.
+
 
 # Information
 
